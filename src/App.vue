@@ -1,4 +1,4 @@
-<script setup>
+<script>
   import AppTitle from './components/AppTitle.vue';
 
   export default {
@@ -6,13 +6,10 @@
       AppTitle
     }
   }
-
 </script>
 
 <template>
   <AppTitle></AppTitle>
-  
 </template>
 
-<style scoped>
-</style>
+
